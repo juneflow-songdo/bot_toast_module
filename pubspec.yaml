@@ -1,9 +1,9 @@
 name: bot_toast_module
 description: "JuneFlow Module"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneflow-songdo/bot_toast_module
 
-version: 0.1.0
+version: 0.1.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
