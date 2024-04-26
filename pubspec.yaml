@@ -3,7 +3,7 @@ description: "this module is a part of the juneflow project, it provides a bot_t
 #publish_to: 'none'
 repository: https://github.com/juneflow-songdo/bot_toast_module
 
-version: 0.1.2
+version: 0.1.3
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
@@ -11,9 +11,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  go_router: ^13.2.0
-  june_flow_util: ^0.8.19
-  bot_toast: ^4.1.3 #@add
+  go_router:
+  june_flow_util:
+  bot_toast:  #@add
 
 dev_dependencies:
   flutter_test:
